@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "f772a0d4dd25ff10",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e992ce9f119fb13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c92f73d54d12db20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "laf/已整理/商业化策略思考.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a47581658824824c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4c22303e3bb9733",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a5524cc6d99f2a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "915b8b68161fb09a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c337630845b83faa",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "right": {
+    "id": "5daa317549055df0",
+    "type": "split",
+    "children": [
+      {
+        "id": "968b6433b95f8b47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1b6a441efd953b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "laf/已整理/商业化策略思考.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57be55b61f16415d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "laf/已整理/商业化策略思考.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35939296d157858d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54fed15d848ea2ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "laf/已整理/商业化策略思考.md"
+              }
+            }
+          },
+          {
+            "id": "b00e7b62485c820d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "bcbbc834f358c96d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f2e8694e7306ac6b",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 387.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "c92f73d54d12db20",
+  "lastOpenFiles": [
+    "laf/杂/关于 laf 的产品梳理.md",
+    "laf/杂/laf 产品规划.md",
+    "laf/杂/竞品收集.md",
+    "laf/杂/laf 需求收集.md",
+    "laf/杂/laf 开发指南.md",
+    "laf/杂/laf web 1.0.md",
+    "laf/已整理/laf 产品的碎碎念.md",
+    "laf/已整理/商业化策略思考.md",
+    "laf/已整理/用户角色及痛点分析.md",
+    "laf/杂/laf 支付流程需求分析.md",
+    "laf/杂/服务条款.md",
+    "ReactQuery 使用心得.md",
+    "前端面试基础题.md",
+    "work 记录.md",
+    "设计师面试.md",
+    "前端实习生面试.md",
+    "研发流程.md",
+    "OKR.md",
+    "laf/未命名",
+    "技术",
+    "IMG_9408.png",
+    "UI 招聘 JD  by chatGPT.md",
+    "laf/杂/laf 1.0 功能更新.md",
+    "laf/已整理",
+    "laf/杂",
+    "sealos/产品划分.md",
+    "assets/Pasted image 20230308194134.png",
+    "未命名.md",
+    "laf/杂/商业化版本付费表.md",
+    "laf/杂/后台管理应用需求.md",
+    "Excalidraw/Drawing 2023-03-10 13.14.12.excalidraw.md",
+    "未命名.canvas",
+    "sealos/云闪订客户使用资源梳理.md",
+    "assets/Pasted image 20230308193946.png",
+    "assets/Pasted image 20230308192540.png",
+    "assets/Pasted image 20230308121404.png",
+    "assets/Pasted image 20230308120115.png",
+    "assets/Pasted image 20230308120113.png",
+    "assets/Pasted image 20230308114125.png",
+    "assets/Pasted image 20230308113914.png",
+    "assets/Pasted image 20230308113303.png"
+  ]
+}

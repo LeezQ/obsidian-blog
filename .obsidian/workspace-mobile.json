@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "82048595b810eadc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7d0e01acfc463a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b433e3e72dabb18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "laf/LAF 需求收集.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92f67fa2fc5664ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "laf/商业化/商业化版本付费表.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd40bf9db0aaac24",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "78f9314b3213f094",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "99555fd4b71f42ca",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d034baaea0ad39f6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b120d76fa1054c17",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "010ec4d61b5096f3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4b96c8125ed8eeb8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "laf/商业化/商业化版本付费表.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "219b490883af2340",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "laf/商业化/商业化版本付费表.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "835648afba0b817b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "laf/商业化/商业化版本付费表.md"
+          }
+        }
+      },
+      {
+        "id": "47750c1145e2c8b0",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "51b0950e7d0c0b5b",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "4f47172605833aeb",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "92f67fa2fc5664ef",
+  "lastOpenFiles": [
+    "laf/LAF 需求收集.md",
+    "laf/laf 商业化策略.md",
+    "Untitled.md",
+    "laf/关于 LAF 的产品梳理.md",
+    "商业化收费方案思考.md",
+    "sealos/sealos 产品随记.md",
+    "laf/竞品收集.md",
+    "laf/FaaS 的一些文章收集.md",
+    "前端面试基础题.md",
+    "前端实习生面试.md"
+  ]
+}
