@@ -81,3 +81,19 @@ DDOS ?
 ![[Pasted image 20230223154539.png]]
 
 ![[Pasted image 20230307141214.png]]
+
+
+
+![[Pasted image 20230315165940.png|300]]
+
+
+
+
+![[Pasted image 20230316143740.png]]
+
+![[Pasted image 20230316143751.png]]
+
+
+
+
+1. 
