@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "laf Q2.md",
+                "file": "laf & sealos Q2.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "laf Q2.md",
+            "file": "laf & sealos Q2.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "laf Q2.md",
+            "file": "laf & sealos Q2.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "laf Q2.md"
+            "file": "laf & sealos Q2.md"
           }
         }
       },
@@ -169,10 +169,12 @@
   },
   "active": "92f67fa2fc5664ef",
   "lastOpenFiles": [
+    "OKR.md",
+    "laf & sealos Q2.md",
+    "未命名.md",
     "assets/阿里云serverless价格.png",
     "laf Q2.md",
     "laf/杂/服务条款.md",
-    "OKR.md",
     "Excalidraw/Drawing 2023-03-10 13.14.12.excalidraw.md",
     "assets/Pasted image 20230308120115.png",
     "assets/Pasted image 20230308192540.png",
@@ -185,7 +187,6 @@
     "sealos/云闪订客户使用资源梳理.md",
     "Pasted image 20230315165940.png",
     "assets/Pasted image 20230223150358.png",
-    "assets/Pasted image 20230223153718.png",
     "laf/杂/后台管理应用需求.md",
     "sealos/开发记录.md",
     "sealos/k8s 学习笔记.md",
